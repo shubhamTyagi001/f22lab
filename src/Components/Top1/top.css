@@ -1,0 +1,100 @@
+.a {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.a-left {
+    flex: 1;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    position: relative;
+    height: 100%;
+}
+
+.a-right {
+    flex: 1;
+}
+
+.a-img {
+    width: 18.5rem;
+        height: 37.875rem;
+        margin: 1rem 0 0 10.438rem;
+        object-fit: contain;
+}
+
+.Travel-the-world-m {
+    width: 30.063rem;
+    height: 7.875rem;
+    margin: 0 0 1.688rem;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: #19191b;
+}
+.Create-custom-landin {
+    width: 29.188rem;
+    height: 6.563rem;
+    margin: 1.688rem 0.875rem 3.125rem 0;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #19191b;
+}
+
+.Rectangle {
+    width: 26.75rem;
+    height: 4rem;
+    margin: 3.125rem 3.063rem 0 0.25rem;
+    padding: 0.313rem 0.313rem 0.313rem 1.125rem;
+    border-radius: 9px;
+    border: solid 0.9px #eae9f2;
+    background-color: #fff;
+    position: relative;
+}
+
+.Email-address {
+    position: relative;
+    left: 50px ;
+    bottom: 55px;
+    width: 5.938rem;
+    height: 1.25rem;
+    margin: 1.125rem 5.813rem 1rem 1.188rem;
+    font-family: CircularStd;
+    font-size: 1.013rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.51px;
+    color: #696871;
+}
+
+.BG {
+    position: relative;
+    left: 150px;
+    bottom: 107px;
+    width: 11.25rem;
+    height: 3.375rem;
+    margin: 0 0 0 5.813rem;
+    padding: 0.938rem 2.375rem 0.938rem 2.313rem;
+    border-radius: 4.5px;
+    border: solid 0.9px #c31a12;
+    background-color: #c31a12;
+    color: white;
+}
+.email{
+    width: 1.125rem;
+        height: 0.938rem;
+        margin: 1.313rem 1.188rem 1.125rem 0;
+        object-fit: contain;
+}
