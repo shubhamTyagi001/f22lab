@@ -1,0 +1,89 @@
+.Rectangle {
+height: 80vh;
+width: auto;
+ display: flex;
+background-color: #5454d4; 
+}
+
+.b-left{
+ flex: 1;
+}
+
+.b-right{
+flex: 1;
+}
+
+.imgbox{
+    display: flex;
+    position: relative;
+    left: 90px;
+    top: 70px;
+}
+
+.OMG-I-cannot-belie {
+    position: relative;
+    left: 90px;
+    top: 70px;
+    width: 28.938rem;
+    height: 6.5rem;
+    margin: 1.438rem 0 1.25rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #fff;
+}
+
+.You-made-it-so-simp {
+    position: relative;
+    left: 90px;
+    top: 70px;
+    width: 28.688rem;
+    height: 6.5rem;
+    margin: 1.438rem 0 1.25rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #fff;
+}
+
+.Jonathan-Taylor {
+    position: relative;
+        left: 90px;
+        top: 70px;
+    width: 6.063rem;
+    height: 1.625rem;
+    margin: 1.25rem 22.875rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #fff;;
+}
+
+.Lizzie-Rodgers {
+    position: relative;
+        left: 90px;
+        top: 70px;
+    width: 5.438rem;
+    height: 1.625rem;
+    margin: 1.25rem 23.25rem 0 0;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #fff;
+}

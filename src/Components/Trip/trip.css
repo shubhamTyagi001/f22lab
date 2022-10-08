@@ -1,0 +1,125 @@
+.b {
+    height: 100vh;
+    width: auto;
+    display: flex;
+}
+
+.c-left{
+ flex: 1;
+ 
+}
+
+.c-right{
+flex: 1;
+align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+}
+.Img1 {
+    position: relative;
+    top: 70px;
+    width: 18.5rem;
+    height: 30.875rem;
+    margin: 1rem 0 0 10.438rem;
+    object-fit: contain;
+    transform: rotate(-353deg);
+}
+
+.Making-trip-is-fun {
+    position: relative;
+    top: 70px;
+    left: 90px;
+    width: 29.688rem;
+    height: 7.875rem;
+    margin: 0 0 1.375rem;
+    font-family: CircularStd;
+    font-size: 3.375rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -1.69px;
+    color: #19191b;
+}
+
+.Create-custom-landin {
+    position: relative;
+        top: 70px;
+        left: 90px;
+    width: 29rem;
+    height: 6.563rem;
+    margin: 1.375rem 0.5rem 2.438rem 0.188rem;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: -0.59px;
+    color: #696871;
+}
+
+.Oval {
+    position: relative;
+    top: 70px;
+    left: 90px;
+    width: 2.75rem;
+    height: 2.75rem;
+     border-radius: 50%;
+    background-color: #5454d4;
+}
+
+.one {
+    position: relative;
+    left: 12px;
+    top: 5px;
+    width: 0.75rem;
+    height: 1.75rem;
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 1.35rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.68px;
+    text-align: center;
+    color: #fff;
+}
+
+.Find-your-trip-partn {
+    position: relative;
+    left: 150px;
+    top: 30px;
+    width: 19.125rem;
+    height: 1.5rem;
+    margin: 0 0 0.813rem 1.188rem;
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 1.181rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.59px;
+    color: #19191b;
+}
+
+.With-lots-of-unique {
+    position: relative;
+        left: 150px;
+        top: 30px;
+    width: 18.188rem;
+    height: 4.75rem;
+    margin: 0.813rem 0.938rem 0 1.188rem;
+    font-family: CircularStd;
+    font-size: 0.9rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: -0.45px;
+    color: #696871;
+}
+

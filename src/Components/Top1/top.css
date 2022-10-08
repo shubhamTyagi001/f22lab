@@ -2,24 +2,27 @@
     height: 100vh;
     display: flex;
     align-items: center;
+    background-color: yellow;
 }
 
-.a-left {
+ .a-left {
     flex: 1;
-    display: flex;
-    align-items: left;
-    justify-content: left;
+    align-items: center;
+    justify-content: center;
     position: relative;
     height: 100%;
 }
 
 .a-right {
     flex: 1;
+    
 }
 
 .a-img {
+    position: relative;
+        top: 30px;
     width: 18.5rem;
-        height: 37.875rem;
+        height: 30.875rem;
         margin: 1rem 0 0 10.438rem;
         object-fit: contain;
 }
@@ -37,7 +40,7 @@
     letter-spacing: -1.69px;
     color: #19191b;
 }
-.Create-custom-landin {
+.Create{
     width: 29.188rem;
     height: 6.563rem;
     margin: 1.688rem 0.875rem 3.125rem 0;
@@ -51,7 +54,7 @@
     color: #19191b;
 }
 
-.Rectangle {
+.Rectang {
     width: 26.75rem;
     height: 4rem;
     margin: 3.125rem 3.063rem 0 0.25rem;
@@ -62,10 +65,18 @@
     position: relative;
 }
 
+.email {
+    
+    width: 1.125rem;
+    height: 0.938rem;
+    margin: 1.313rem 1.188rem 1.125rem 0;
+    object-fit: contain;
+    left: 20px;
+}
 .Email-address {
     position: relative;
-    left: 50px ;
-    bottom: 55px;
+        left: 80px;
+        bottom: 50px;
     width: 5.938rem;
     height: 1.25rem;
     margin: 1.125rem 5.813rem 1rem 1.188rem;
@@ -82,7 +93,7 @@
 .BG {
     position: relative;
     left: 150px;
-    bottom: 107px;
+        bottom: 107px;
     width: 11.25rem;
     height: 3.375rem;
     margin: 0 0 0 5.813rem;
@@ -91,10 +102,4 @@
     border: solid 0.9px #c31a12;
     background-color: #c31a12;
     color: white;
-}
-.email{
-    width: 1.125rem;
-        height: 0.938rem;
-        margin: 1.313rem 1.188rem 1.125rem 0;
-        object-fit: contain;
-}
+} 
